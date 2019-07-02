@@ -42,5 +42,7 @@ def dec2(func):
 def test():
     print("test test")
 
+print("finished")
+
 
 

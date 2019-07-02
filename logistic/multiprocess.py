@@ -43,6 +43,9 @@ def test():
     print("test test")
 
 print("finished")
+print("finished")
+print("finished")
+print("finished")
 
 
 
